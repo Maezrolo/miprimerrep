@@ -11,7 +11,7 @@
 
 <header>
     <div class="titulo"> 
-        <h1>Cocina Criolla en la Mesa</h1>
+        <h1>Cocina</h1>
     </div>
 </header>
 <body>
